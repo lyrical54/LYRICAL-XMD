@@ -1,8 +1,8 @@
 {
   "name": "lyrical-xmd",
   "description": "WhatsApp bot using Baileys and creds.json session.",
-  "repository": "https://github.com/lyrical54/LYRICAL-XMD/blob/main/app.json",
-  "keywords": ["whatsapp", "bot", "baileys", "arslan-ai"],
+  "repository": "https://github.com/lyrical54/LYRICAL-XMD",
+  "keywords": ["whatsapp", "bot", "baileys", "lyrical-xmd"],
   "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -12,6 +12,6 @@
     }
   ],
   "scripts": {
-    "postdeploy": "echo '✅ Arslan-Ai deployed on Heroku!'"
+    "postdeploy": "echo '✅ lyrical deployed on Heroku!'"
   }
 }
