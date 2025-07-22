@@ -1,5 +1,5 @@
 {
-  "name": "Arslan-Ai",
+  "name": "lyrical-xmd",
   "version": "1.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "docker:build": "docker build -t Arslan-Ai .",
-    "docker:run": "docker run -e SESSION_ID=$SESSION_ID Arslan-Ai"
+    "docker:run": "docker run -e SESSION_ID=$SESSION_ID lyrical-xmd"
   },
   "keywords": [
     "whatsapp-bot"
