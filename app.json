@@ -1,0 +1,17 @@
+{
+  "name": "Arslan-Ai",
+  "description": "WhatsApp bot using Baileys and creds.json session.",
+  "repository": "https://github.com/Arslan-MD/Arslan-Ai",
+  "keywords": ["whatsapp", "bot", "baileys", "arslan-ai"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    },
+    {
+      "url": "heroku/nodejs"
+    }
+  ],
+  "scripts": {
+    "postdeploy": "echo '✅ Arslan-Ai deployed on Heroku!'"
+  }
+}
