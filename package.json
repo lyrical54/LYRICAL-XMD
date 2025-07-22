@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "docker:build": "docker build -t Arslan-Ai .",
+    "docker:build": "docker build -t lyrical-xmd.",
     "docker:run": "docker run -e SESSION_ID=$SESSION_ID lyrical-xmd"
   },
   "keywords": [
