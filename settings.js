@@ -3,8 +3,8 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 // 🔐 Anti-Tamper & Clone Protection
-const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const botName = "lyrical-xmd💀";
+const ownerNumber = "254769799982";
 const securityHash = "a1b2c3d4e5f6g7h8i9j0"; // Change this to your unique hash
 
 // 🚨 Security Check
@@ -33,14 +33,14 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-Ai",
+  botName: "lyrical-xmd",
   packname: "Arslan-Ai Premium Pack",
-  author: "ArslanMD Official",
+  author: "lyricaltrevorOfficial",
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "lyricalxmd",
+  ownerNumber: "254769799982",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
@@ -56,7 +56,7 @@ const settings = {
   
   autoReply: {
     status: true,
-    message: "🤖 Arslan-MD is currently busy. I'll reply soon!"
+    message: "🤖 lyrical-xmd is currently busy. I'll reply soon!"
   },
   
   // 🔐 Security
@@ -82,9 +82,9 @@ const settings = {
   
   // 🌍 Metadata
   description: "⚡ The Most Advanced WhatsApp Bot with ULTRA PRO MAX Features",
-  website: "https://arslan-md.com",
+  website: "https://github.com/lyrical54/LYRICAL-XMD",
   ytchannel: "https://youtube.com/@arslanmdofficial",
-  repo: "https://github.com/Arslan-MD/Arslan-Ai",
+  repo: "https://github.com/lyrical54/LYRICAL-XMD",
   
   // 🔄 System
   autoUpdate: true,
