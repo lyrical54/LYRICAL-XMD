@@ -1,7 +1,7 @@
 {
-  "name": "Arslan-Ai",
+  "name": "lyrical-xmd",
   "description": "WhatsApp bot using Baileys and creds.json session.",
-  "repository": "https://github.com/Arslan-MD/Arslan-Ai",
+  "repository": "https://github.com/lyrical54/LYRICAL-XMD/blob/main/app.json",
   "keywords": ["whatsapp", "bot", "baileys", "arslan-ai"],
   "buildpacks": [
     {
